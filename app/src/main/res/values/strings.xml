@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstDemo</string>
+    <string name="main_salute_label">Hello World!</string>
+</resources>
